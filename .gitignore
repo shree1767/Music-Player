@@ -1,0 +1,53 @@
+# macOS
+.DS_Store
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React Native related
+ios/Pods/
+ios/build/
+ios/Podfile.lock
+android/.gradle/
+android/local.properties
+android/app/build/
+android/build/
+android/captures/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Dependency directories
+__pycache__/
+node_modules/
+jspm_packages/
+
+# Logs and databases
+logs/
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+
+# Output files
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs_analysis.dat
+*.ntvs_test.*
+*.suo
+*.user
+*.sln
+*.sw?
